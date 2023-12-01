@@ -26,7 +26,7 @@ Web development is the process of building websites and web applications. It inv
 
 - [Javascript in Hindi](https://youtube.com/playlist?list=PLu0W_9lII9ahR1blWXxgSlL4y9iQBnLpR&feature=shared)
 - [Javascript in English](https://youtu.be/SBmSRK3feww?feature=shared)
-- [JavaScript Tutorials](https://javascript.info/) - In-depth tutorials on JavaScript.
+- [JavaScript Tutorials](https://javascript.info/)
 - [CodePen](https://codepen.io/)
 
 ### Front-end Frameworks:
