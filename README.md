@@ -10,8 +10,8 @@ Web development is the process of building websites and web applications. It inv
 
 ### HTML:
 
-- [HTML/CSS beigneer to pro](https://youtu.be/G3e-cpL7ofc?feature=shared)
-- [HTML/CSS advanced concepts](https://youtu.be/XhqEuyWjbdo?feature=shared)
+- [HTML/CSS Begineer to Pro](https://youtu.be/G3e-cpL7ofc?feature=shared)
+- [HTML/CSS Advanced Concepts](https://youtu.be/XhqEuyWjbdo?feature=shared)
 - [W3Schools HTML Tutorial](https://www.w3schools.com/html/)
 - [MDN HTML Guide](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
@@ -26,23 +26,23 @@ Web development is the process of building websites and web applications. It inv
 
 - [Javascript in Hindi](https://youtube.com/playlist?list=PLu0W_9lII9ahR1blWXxgSlL4y9iQBnLpR&feature=shared)
 - [Javascript in English](https://youtu.be/SBmSRK3feww?feature=shared)
-- [JavaScript tutorials](https://javascript.info/) - In-depth tutorials on JavaScript.
+- [JavaScript Tutorials](https://javascript.info/) - In-depth tutorials on JavaScript.
 - [CodePen](https://codepen.io/)
 
 ### Front-end Frameworks:
 
-- [React js begineer to advanced](https://youtu.be/2-crBg6wpp0?feature=shared)
+- [ReactJs Begineer to Advanced](https://youtu.be/2-crBg6wpp0?feature=shared)
 - [Angular Tutorial](https://youtu.be/3qBXWUpoPHo?feature=shared)
 
 ### Back-end Frameworks:
 
-- [NodeJS and ExpressJS](https://youtu.be/Oe421EPjeBE?feature=shared)
-- [Django](https://youtu.be/F5mRW0jo-U4?si=nRlHE7mf14HS4MYT)
+- [NodeJS and ExpressJS Tutorial](https://youtu.be/Oe421EPjeBE?feature=shared)
+- [Django Tutorial](https://youtu.be/F5mRW0jo-U4?si=nRlHE7mf14HS4MYT)
 
 ### Databases: 
 
-- [MongoDB tutorial](https://youtube.com/playlist?list=PL4cUxeGkcC9h77dJ-QJlwGlZlTd4ecZOA&feature=shared)
-- [MySQL tutorial](https://youtube.com/playlist?list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y&feature=shared)
+- [MongoDB Tutorial](https://youtube.com/playlist?list=PL4cUxeGkcC9h77dJ-QJlwGlZlTd4ecZOA&feature=shared)
+- [MySQL Tutorial](https://youtube.com/playlist?list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y&feature=shared)
 
 
 Feel free to explore these resources at your own pace and don't hesitate to ask questions during our session! Happy coding! 🌟
